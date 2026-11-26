@@ -1,4 +1,22 @@
-Developed by Harsha Zoysa @ www.e-simturkei.de
+### 🇩🇪 Du reist aus Deutschland in die Türkei und suchst eine günstige eSIM?
+
+Es gibt zahlreiche eSIM-Anbieter mit unterschiedlichen Preisen, Datenpaketen und Mobilfunknetzen. Doch welche eSIM bietet wirklich das beste Preis-Leistungs-Verhältnis für deine Türkei-Reise?
+
+Wir helfen dir, den Überblick zu behalten! Vergleiche verschiedene eSIM-Anbieter, aktuelle Preise, Datenvolumen, Laufzeiten und verfügbare Mobilfunknetze – alles an einem Ort.
+
+Finde die passende Türkei-eSIM für dein Reisebudget und vermeide unnötige Kosten für mobiles Internet.
+
+**Jetzt Türkei-eSIMs vergleichen und den besten Tarif finden:**
+
+👉 https://e-simturkei.de
+
+👉 **Alle Türkei-eSIM-Tarife vergleichen:** https://www.e-simturkei.de/vergleich
+
+👉 **Den besten Türkei-eSIM-Tarif berechnen:** https://www.e-simturkei.de/esim-turkei-rechner
+
+
+
+
 # eSIM-Turkei
 A simple Next.js Turkey eSIM price calculator that helps travellers find the cheapest eSIM plans based on their data requirements and trip duration.
 
